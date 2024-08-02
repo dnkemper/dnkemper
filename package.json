@@ -46,7 +46,7 @@
     "babel-loader": "^8.2.4",
     "cypress": "^9.5.3",
     "eslint": "^8.5.0",
-    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-cypress": "^3.4.0",
     "eslint-plugin-storybook": "^0.6.15",
     "eslint-plugin-vue": "^8.2.0",
     "jsdom": "^19.0.0",
